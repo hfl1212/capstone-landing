@@ -228,7 +228,7 @@ p img {
 }
 
 p.lead {
-  font-family: "Nunito Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-size: 2.8rem;
   line-height: 1.571;
@@ -2590,8 +2590,8 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 23.2rem;
   padding-bottom: calc((62.4rem / 2) + 6.4rem);
-  background-color: #5b4f96;
-  color: rgba(255, 255, 255, 0.8);
+  background-color: #ffeba8;
+  color: #363636;
   overflow: hidden;
   position: relative;
 }
@@ -2602,11 +2602,11 @@ html.no-csstransitions .home-content__main {
 
 .s-about .display-1,
 .s-about h3 {
-  color: #ffffff;
+  color: #363636;
 }
 
 .s-about p.lead {
-  color: rgba(255, 255, 255, 0.6);
+  color: #363636;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3500,11 +3500,11 @@ html.no-csstransitions .home-content__main {
 
 .s-download .display-1,
 .s-download h3 {
-  color: #ffffff;
+  color: #363636;
 }
 
 .s-download p.lead {
-  color: rgba(255, 255, 255, 0.6);
+  color: #363636;
 }
 
 .s-download .download-badges {
