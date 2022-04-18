@@ -95,7 +95,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #5b4f96;
+  color: #ffeba8;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
@@ -285,7 +285,7 @@ blockquote:before {
   line-height: 0px;
   margin: 0;
   color: #c2c2c2;
-  color: #5b4f96;
+  color: #ffeba8;
   font-family: Arial, Sans-serif;
   position: absolute;
   top: 4.4rem;
@@ -434,7 +434,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #5b4f96;
+  background: #ffeba8;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -443,7 +443,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #5b4f96;
+  color: #ffeba8;
 }
 
 dd {
@@ -1576,7 +1576,7 @@ input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-  background: #5b4f96;
+  background: #ffeba8;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2188,7 +2188,7 @@ input::-moz-focus-inner {
   line-height: 5.6rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
-  color: #5b4f96;
+  color: #ffeba8;
   border-bottom: 1px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -3080,7 +3080,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-features {
   padding-top: 19.2rem;
-  padding-bottom: 20rem;
+  padding-bottom: 5rem;
   background-color: #eaeaea;
   overflow: hidden;
   position: relative;
@@ -3127,7 +3127,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 1000px) {
   .s-features {
     padding-top: 17.2rem;
-    padding-bottom: 17.2rem;
+    padding-bottom: 3rem;
   }
 
   .features .item-feature:nth-child(2n + 1) {
@@ -3142,7 +3142,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 800px) {
   .s-features {
     padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-bottom: 5rem;
   }
 
   .features {
@@ -3170,7 +3170,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 600px) {
   .s-features {
     padding-top: 14.8rem;
-    padding-bottom: 14.8rem;
+    padding-bottom: 5rem;
   }
 
   .features .item-feature:nth-child(n) {
@@ -3182,7 +3182,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 400px) {
   .s-features {
     padding-top: 14rem;
-    padding-bottom: 14rem;
+    padding-bottom: 5rem;
   }
 
   .features .item-feature:nth-child(n) {
@@ -3405,7 +3405,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-plan--popular .item-plan__block {
-  background-color: #5b4f96;
+  background-color: #ffeba8;
   border: none;
 }
 
@@ -3597,8 +3597,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-  padding-top: 18.4rem;
-  padding-bottom: 4.8rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   color: #363636;
   position: relative;
 }
@@ -3639,8 +3639,8 @@ html.no-csstransitions .home-content__main {
 }
 
 .footer__bottom {
-  margin-top: 1.6rem;
-  padding-top: 3.9rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
   border-top: 1px solid rgba(255, 255, 255, 0.03);
 }
 
@@ -3715,8 +3715,8 @@ html.no-csstransitions .home-content__main {
 
 .footer__subscribe #mc-form input[type="submit"] {
   color: #ffffff;
-  background: #5b4f96;
-  border-color: #5b4f96;
+  background: #ffeba8;
+  border-color: #ffeba8;
   margin-right: 0;
   padding: 0 20px 0 24px;
   height: 6.8rem;
@@ -3767,7 +3767,7 @@ html.no-csstransitions .home-content__main {
 .footer__social li a:hover,
 .footer__social li a:focus,
 .footer__social li a:active {
-  background-color: #5b4f96;
+  background-color: #ffeba8;
   color: #ffffff;
 }
 
@@ -3900,22 +3900,22 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 800px) {
   .s-footer {
-    padding-top: 14.8rem;
+    padding-top: 1rem;
   }
 
   .footer__bottom .right {
-    margin-top: 5.6rem;
+    margin-top: 1rem;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .s-footer {
-    padding-top: 12rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .s-footer h4 {
-    padding-bottom: 1.6rem;
+    padding-bottom: 1rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.03);
   }
 
