@@ -3099,9 +3099,7 @@ html.no-csstransitions .home-content__main {
 
 .item-feature__icon {
   color: #ffeba8;
-  width: 15rem;
-  height: 15rem;
-  border-radius: 100%;
+  font-size: 4.8rem;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3193,8 +3191,6 @@ html.no-csstransitions .home-content__main {
     margin-bottom: 0;
   }
 }
-
-
 
 /* ===================================================================
  * # testimonials
