@@ -2718,7 +2718,7 @@ html.no-csstransitions .home-content__main {
   overflow: hidden;
   height: 62.4rem;
   margin-top: calc((62.4rem / 2) * -1);
-  background-image: url(../images/video-bg-2400.jpg);
+  background-image: url(../images/vid.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -3099,7 +3099,9 @@ html.no-csstransitions .home-content__main {
 
 .item-feature__icon {
   color: #ffeba8;
-  font-size: 4.8rem;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 100%;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3191,6 +3193,8 @@ html.no-csstransitions .home-content__main {
     margin-bottom: 0;
   }
 }
+
+
 
 /* ===================================================================
  * # testimonials
