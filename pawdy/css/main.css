@@ -3543,7 +3543,9 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-download .download-bottom-image img {
-  vertical-align: bottom;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ------------------------------------------------------------------- 
